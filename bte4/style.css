@@ -1,0 +1,77 @@
+
+body {
+    background-color: rgb(98, 107, 207);
+    margin: 0;
+  }
+
+  #home h1 {text-align:center;
+  display: block;
+  width: 500px;             
+  margin: 0 auto;  
+  background-color: white;
+  color: rgb(19, 43, 105); 
+  padding: 1ex} 
+
+  .logo {
+    vertical-align: middle;
+    }
+
+  .school {
+        display: block;   
+        width: 100%;     
+        height: auto;     
+  }
+
+  .btn {
+    position: relative; 
+  }
+
+  .btn-about {
+   
+   position: absolute;
+   left: 43%;
+   bottom: 180px; 
+   color: #fff;
+   font-size: 32px;
+   background-color: rgb(4, 4, 55);
+   padding: 10px 40px;
+   text-decoration: none;
+   transition: background-color .5s;
+
+
+
+  }
+  .btn-about:hover {
+    background-color: rgb(60, 85, 150);  
+  }
+
+  .intro {
+    background-color: #fff;
+    font-size: 32px;
+  }
+  .intro1 {
+    font-size: 24px;
+  }
+  .strMars {
+    background-color: #fff;
+    font-size: 32px;
+  }
+  .mars  {
+    float:left
+  }
+  .strmars2 {
+    
+    font-size: 24px;
+  }
+  .strMoon {
+    background-color: #fff;
+    font-size: 32px;
+}
+  .Moon  {
+    float:right
+  }
+
+  .strmoon2 {
+    
+    font-size: 24px;
+}
